@@ -1,0 +1,28 @@
+{
+  "name": "bb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@szhsin/react-menu": "^0.11.2",
+    "axios": "^0.21.0",
+    "fontsource-roboto": "^3.0.3",
+    "next": "10.0.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-mui-multiselect-dropdown": "^1.0.3",
+    "react-player": "^2.6.2",
+    "react-select": "^3.1.0",
+    "react-select-search": "^2.2.0",
+    "react-sound": "^1.2.0",
+    "react-windowed-select": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}

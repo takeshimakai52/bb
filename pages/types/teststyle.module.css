@@ -1,0 +1,25 @@
+.button{
+    color: pink;
+    border: 1px solid pink;
+}
+
+.aaa{
+    width: 20%;
+}
+
+.gogo_footer{
+    position: fixed;
+    width:100%;
+    height:56px;
+    bottom:27vh;
+    text-align:center;
+    z-index: 1;
+}
+
+.eureka{
+
+}
+
+.gogo_img{
+    max-width: 100%;
+}
